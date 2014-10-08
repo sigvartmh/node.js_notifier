@@ -1,9 +1,9 @@
 Installation and setup
 ----------------
 Technology used:
-  * Node.js (Javascript server running on V8 engine)
-  * Websockets (By using socket.io on the node.js server)
-  * jQuery (For DOM manipulation with ajax post/request)
+  * [Node.js](http://nodejs.org/) (Javascript server running on [V8 engine](https://code.google.com/p/v8/))
+  * [Websockets](http://en.wikipedia.org/wiki/WebSocket) (By using [socket.io](http://socket.io/) on the node.js server)
+  * [jQuery](http://jquery.com/) (For DOM manipulation with ajax post/request)
 
 Requirements:
 
