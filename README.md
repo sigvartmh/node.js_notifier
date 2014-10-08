@@ -28,7 +28,7 @@ Installing NPM:
     npm install node-notifier
     npm install socket.io
     
-Note: Socket.io requires a C++ compiler due to a C/C++ addon. Read more about the [node-gyp](https://github.com/TooTallNate/node-gyp) if you have problems with installing socket.io or google it.
+Note: Socket.io requires a C++ compiler due to a C/C++ addon. Read more about the build system [node-gyp](https://github.com/TooTallNate/node-gyp) if you have problems with installing socket.io or google it.
 
 To run example:
     
